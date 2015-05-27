@@ -1,0 +1,42 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #eee;
+}
+h1 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 300%;
+	font-variant: small-caps;
+}
+a {
+	color:#000;
+}
+a:hover{
+	color: #555;
+}
+img {
+	border: 20px solid #ffffff;
+	width: 350px;
+	height: 450px;
+}
+/* User defined classes */
+.spacer{
+	margin-top: 80px;
+}
+.current{
+	/*background-color:#f0e68c;*/
+}
+.postit{
+	width:350px;
+}
+.aroundtitle{
+	width: 350px;
+	height:200px;
+	margin-top: 0px;
+	border: 0px solid #ffffff;
+	margin-bottom: 2px;
+	vertical-align: middle;
+}
+
+.sectiontitle{
+	margin-bottom: 40px;
+}
